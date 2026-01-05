@@ -119,10 +119,10 @@ A interface em Streamlit orquestra o fluxo de inteligência:
 
 Abaixo estão exemplos da interface da aplicação após o processamento da pergunta acima.
 
-**Exemplo 1: Interface Geral e Análise Textual**
+**Exemplo 1: Exemplo focado na análise crítica**
 ![Exemplo focado na análise crítica](exemplo1.png)
 
-**Exemplo 2: Gráfico Interativo Gerado**
+**Exemplo 2: Exemplo focado no mercado**
 ![Exemplo focado no mercado](exemplo2.png)
 
 ---
