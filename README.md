@@ -10,6 +10,10 @@ O **CAGED AI Analyst** é uma solução de *Generative BI* que democratiza o ace
 
 Ao invés de depender de dashboards estáticos ou analistas de SQL para cada nova pergunta, o usuário interage em linguagem natural. O sistema utiliza **Large Language Models (LLMs)** para atuar como um engenheiro de dados (gerando SQL) e como um analista de mercado (gerando insights e gráficos dinâmicos).
 
+
+## **Diagrama do projeto**
+![Diagrama](visao_do_projeto.png)
+
 ---
 
 ## Diferenciais Competitivos
