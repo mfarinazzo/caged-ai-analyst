@@ -1,0 +1,5 @@
+streamlit
+pandas
+xlsxwriter  # Necessário para a engine de gravação de arquivos .xlsx
+databricks-sql-connector
+google-genai  # SDK oficial do Google Gemini
