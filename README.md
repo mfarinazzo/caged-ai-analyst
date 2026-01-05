@@ -79,7 +79,7 @@ A interface em Streamlit orquestra o fluxo de inteligência:
 
 1.  Clone o repositório:
     ```bash
-    git clone [https://github.com/seu-usuario/caged-ai-analyst.git](https://github.com/seu-usuario/caged-ai-analyst.git)
+    git clone [https://github.com/mfarinazzo/caged-ai-analyst](https://github.com/mfarinazzo/caged-ai-analyst)
     cd caged-ai-analyst
     ```
 
